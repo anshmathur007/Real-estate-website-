@@ -1,0 +1,55 @@
+.nav-anchor-about {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.bannar-img {
+  border: solid 2px black;
+}
+.banner-img {
+  width: 550px;
+  margin: 0px -25px;
+}
+.about-us {
+  text-align: center;
+}
+.nav-bar {
+  background-color: rgb(255, 255, 255);
+  border: solid 2px rgb(255, 255, 255);
+}
+.about-video {
+  position: absolute;
+  width: 100%;
+}
+
+.outer-bannar-img {
+  position: relative;
+  height: 470px;
+  border: solid 2px red;
+}
+/* .anText {
+  font-size: 100px;
+  line-height: 90px;
+  margin-top: 70px;
+  font-weight: 700;
+  position: relative; */
+/* } */
+.overlap-video {
+  background-color: aliceblue;
+  position: relative;
+  top: 10px;
+  border: solid 2px gold;
+}
+.on-video {
+  position: relative;
+  top: 60px;
+  left: 152px;
+  color: aliceblue;
+  font-size: 100px;
+  font-weight: bold;
+}
+.word {
+  box-shadow: none;
+  /* transition: all 0.5s ease;
+  opacity: 0;
+  position: absolute;
+} */
